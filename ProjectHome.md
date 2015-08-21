@@ -3,15 +3,7 @@
 <b>下载：请前往homepage查看，或前往<a href='http://pan.baidu.com/s/1hqvHdA0#dir/path=%2FOX163%2FOX163%20archivers'>网盘</a>查看</b><br><br>
 <b>homepage: </b><a href='http://www.shanhaijing.net/163/'>http://www.shanhaijing.net/163/</a><br><br>
 <b>forum: </b><a href='http://www.ugschina.com/forum/forumTopicList.asp?id=17'>http://www.ugschina.com/forum/forumTopicList.asp?id=17</a><br><br>
-<p><strong>0.5.8beta(2013.05.19)</strong>
-<li>增加更新服务器设置</li>
-<li>修正163相册部分图片无法下载问题</li>
-<li>修正163相册问题密码的无法识别问题</li>
-<li>修正导出单个列表文件时产生多个0KB列表文件</li>
-<li>修正下载文件出现错误后，删除文件重新下载的长文件名变为短文件名</li>
-<li>增加路径选择窗口地址输入栏，无需层层点击选择文件夹</li>
-<li>调整Shift+C为Alt+C（未完成）</li>
-<li>修正支持将列表文本转换为Unicode文本到剪贴板（Ctrl+C,Alt+C）</li></p>
+<p><strong>0.5.9beta(2015.08.05)</strong></p>
 <br><br>
 使用教程：<br>
 <br>
